@@ -31,7 +31,8 @@ Ensure you have Python installed. The following libraries are required:
 3. Access the chatbot via the generated public `gradio.live` link.
 
 ---
-**Developed by:** Adeeba Javed 
+**Developed by:** Adeeba Javed
+
 **University:** University of Kotli Azad Jammu and Kashmir  
 **Domain:** Artificial Intelligence  
 **Organization:** CodeAlpha
